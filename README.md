@@ -1,6 +1,3 @@
-# threat-intelligence-siem-pipeline
-End-to-end threat intelligence pipeline using Python automation and Splunk for detection, alerting, and incident response
-
 <h1>🚨 Threat Intelligence Pipeline & SIEM Detection Framework</h1>
 
 <h2>📌 Overview</h2>
