@@ -31,7 +31,7 @@ Threat Intelligence → Collection → Normalization → SIEM → Detection → 
 
 <h2>📄 Full Project Documentation</h2>
 <p>
-👉 <a href="PUT-YOUR-PDF-LINK-HERE" target="_blank">View Full Project (PDF)</a>
+👉 <a href=["PUT-YOUR-PDF-LINK-HERE" target="_blank"](https://github.com/MiguelKnt/threat-intelligence-siem-pipeline/blob/main/Threat%20Intelligence%20Pipeline%20%26%20SIEM%20Detection%20Implementation%20(1).pdf)>View Full Project (PDF)</a>
 </p>
 
 <hr>
