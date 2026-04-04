@@ -1,4 +1,11 @@
+"""
+Threat Intelligence Collection & Normalization Script
 
+This script retrieves malicious IP data from a public threat intelligence feed,
+normalizes the data into a structured JSON format, and prepares it for SIEM ingestion.
+
+Author: Miguel Kent
+"""
 
 import requests
 import json
